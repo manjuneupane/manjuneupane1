@@ -1,4 +1,4 @@
 # manjuneupane1
 this is my Git Repository.
 <br>
-Author = Manju Neupane
+Author =" Manju Neupane" (manju:);
